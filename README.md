@@ -6,4 +6,6 @@ Any bugs you find, or suggestions you have regarding the DFS game servers, forum
 
 You can use this link to submit things: https://github.com/DFS-Servers/BugReportsAndSuggestions/issues/new
 
+Do NOT report players or make ban appeals here, use [DFS Boards](http://dfs.boards.net/) instead for such cases.
+
 (You will need a GitHub account to use this, DFS Boards is also an alternative method for suggesting new things and reporting bugs as well.)
