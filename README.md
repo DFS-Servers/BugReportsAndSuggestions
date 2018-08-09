@@ -1,4 +1,4 @@
-![Logo Picture](https://i.imgur.com/kDOA0bH.png)
+![Logo](https://i.imgur.com/kDOA0bH.png)
 
 # DFS Bug Reports and Suggestions
 
