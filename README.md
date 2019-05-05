@@ -1,7 +1,6 @@
-![Logo](https://i.imgur.com/kDOA0bH.png)
+![Logo](https://i.imgur.com/fvo6TDY.png)
 
 # DFS Bug Reports and Suggestions
-
 Any bugs you find, or suggestions you have regarding the DFS game servers, forums/discord and website are reported/issued into this repository for the developer team to track better.
 
 ***Each resolved bug report or accepted suggestion will grant you a Community Box item in DFS as a token of our appreciation!***
