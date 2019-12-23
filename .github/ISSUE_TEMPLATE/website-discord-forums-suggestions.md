@@ -1,6 +1,6 @@
 ---
-name: Server Suggestions
-about: Request your idea/features for our TF2 servers.
+name: Website/Discord/Forum Suggestions
+about: Suggest your idea/features for our Website, Discord server and Forums.
 
 ---
 
@@ -11,7 +11,7 @@ If your suggestion is related to a problem on the servers, please describe what 
 A detailed description of your suggestion.
 
 **Describe alternatives you've considered**
-Describe and discuss any suggestions or alternative solutions you've considered.
+Describe and discuss any alternative solutions or suggestions you've considered.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
