@@ -1,4 +1,4 @@
-![Logo](https://i.imgur.com/Hti4yBM.png)
+[![Logo](https://i.imgur.com/Hti4yBM.png)](https://dfs.tf)
 
 ### [![GitHub issues](https://img.shields.io/github/issues/DFS-Servers/BugReportsAndSuggestions?style=flat-square&logo=github&logoColor=white)](https://github.com/DFS-Servers/BugReportsAndSuggestions/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed/DFS-Servers/BugReportsAndSuggestions?style=flat-square&logo=github&logoColor=white)](https://github.com/DFS-Servers/BugReportsAndSuggestions/issues?q=is%3Aissue+is%3Aclosed)
 
