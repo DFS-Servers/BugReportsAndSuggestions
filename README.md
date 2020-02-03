@@ -3,7 +3,7 @@
 ### [![GitHub issues](https://img.shields.io/github/issues/DFS-Servers/BugReportsAndSuggestions?style=flat-square&logo=github&logoColor=white)](https://github.com/DFS-Servers/BugReportsAndSuggestions/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed/DFS-Servers/BugReportsAndSuggestions?style=flat-square&logo=github&logoColor=white)](https://github.com/DFS-Servers/BugReportsAndSuggestions/issues?q=is%3Aissue+is%3Aclosed)
 
 # DFS Bug Reports and Suggestions
-Please use this repository to report bugs you find and suggest ideas you have for the [DFS Servers](https://steamcommunity.com/groups/Dispenz0rsFunServer), [dfs.tf Website](https://dfs.tf), [DFS Discord](https://dfs.tf/discord) or [DFS Boards](http://dfs.boards.net),. 
+Please use this repository to report bugs you find and suggest ideas you have for the [DFS Servers](https://steamcommunity.com/groups/Dispenz0rsFunServer), [DFS Website](https://dfs.tf), [DFS Discord](https://dfs.tf/discord) or [DFS Boards](http://dfs.boards.net).
 
 You'll be rewarded with a Keyless Community Crate for each bug report that gets fixed, or suggestion that gets accepted!
 
