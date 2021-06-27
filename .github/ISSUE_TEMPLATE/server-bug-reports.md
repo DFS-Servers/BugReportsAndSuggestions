@@ -25,7 +25,7 @@ Describe the steps to take to reproduce the bug.
 If applicable, add screenshots or error logs to help explain your problem.
 
 **Server Info (please complete the following information):**
- - Region & IP: [e.g. EU, 89.35.29.11:27145]
+ - Region & IP: [e.g. EU, eu.dfs.tf:27015]
 
 **Additional context**
 Add any other context about the problem here.

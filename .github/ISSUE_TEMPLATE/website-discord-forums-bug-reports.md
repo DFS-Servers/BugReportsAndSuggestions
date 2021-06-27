@@ -1,6 +1,6 @@
 ---
-name: Website/Discord/Forum Bug Reports
-about: Create a report to help us improve our Website, Discord server and Forums.
+name: Website/Discord Bug Reports
+about: Create a report to help us improve our Website and Discord server.
 
 ---
 
